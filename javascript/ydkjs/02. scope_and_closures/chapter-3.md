@@ -1,11 +1,11 @@
-## Chapter 3 - Function Versus Block Scope
+# Chapter 3 - Function Versus Block Scope
 
 ---
 
 - Scope consists of a series of 'bubbles' that each act as a container
 - So far functions can create scopes
 
-### Scope from Functions
+## Scope from Functions
 
 ---
 
@@ -27,7 +27,7 @@ const foo = (a) => {
 
 Function Scope encourages the idea that all variables belong to the function, they can be used and reused throughout the entirety of the function. Nested scopes will have access to the variables as well.
 
-### Hiding in Plain Scope
+## Hiding in Plain Scope
 
 ---
 
@@ -70,7 +70,7 @@ doSomething(2); //15
 - `doSomethingElse` and `b` are now not accessible to any outside influence
 - Keeping private details private is the preferred software pattern
 
-### Collision Avoidance
+## Collision Avoidance
 
 ---
 
@@ -93,19 +93,15 @@ foo();
 
 - In assigning `i = 3`, this effectively creates an infinite loop. When bar is called in the for loop, it has access to the identifier `i`. By using `const i = 3`, this is avoided and shadows the variable.
 
-#### Global namespaces
-
----
+### Global namespaces
 
 - Multiple libraries can cause collisions if their variables are declared in the global scope and are not properly scoped to hide their private variables and functions
 
-#### Module management
-
----
+### Module management
 
 - Using the module approach for dependency management ensures that no libraries ever add identifiers to the global scope, but are required to have their identifier(s) be explicitly imported into another specific scope
 
-### Functions as Scopes
+## Functions as Scopes
 
 ---
 
@@ -144,7 +140,7 @@ console.log(a); // 2
 - The function is anonymous, it has no identifier
 - Does not pollute the outer scope outside of the function
 
-### Anonymously Versus Named
+## Anonymously Versus Named
 
 ---
 

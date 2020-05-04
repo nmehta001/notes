@@ -1,4 +1,4 @@
-## Chapter 4 - Hoisting
+# Chapter 4 - Hoisting
 
 ---
 

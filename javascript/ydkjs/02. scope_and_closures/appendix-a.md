@@ -1,4 +1,4 @@
-### Appendix A - Dynamic Scopes
+## Appendix A - Dynamic Scopes
 
 ---
 

@@ -1,4 +1,4 @@
-## Chapter 2 - Lexical Scope
+# Chapter 2 - Lexical Scope
 
 ---
 
@@ -8,8 +8,6 @@
   - Dynamic scope (providing contrast)
 
 ### Lex time
-
----
 
 Lexical scope is based on where the scope is defined at lexing time. In this instance each function creates a new scope
 
@@ -39,7 +37,7 @@ The above example has three distinct scopes:
 
 What we can conclude from this is that `bar` is nested within the scope of `foo` only because that is where it was placed
 
-### Look-ups
+## Look-ups
 
 ---
 
@@ -53,7 +51,7 @@ When performing look-ups, the structure and relative placement of each scope tel
 
 No matter where or how a function is invoked, its lexical scope is relative to where it was declared.
 
-### Cheating Lexical
+## Cheating Lexical
 
 ---
 
@@ -134,7 +132,7 @@ console.log(a); // leaked global
 
 What has happened is that `with` takes an object and creates an entirely new scope with that object. Tying this back to look-ups, as `o1.a` exists so there is no need to do anything, just assign the value. Conversely `o2.a` does not exist in any scope, so the normal LHS rule applies, `a` is created in the global scope for `o2`.
 
-### Performance
+## Performance
 
 ---
 

@@ -1,10 +1,8 @@
-# Up and Going
-
-## Chapter 3 - Into YDKJS
+# Chapter 3 - Into YDKJS
 
 ---
 
-### Scope & Closures
+## Scope & Closures
 
 ---
 
@@ -12,7 +10,7 @@
 - JS variable scope management - **_'hoisting'_**
 - The application of Closure in the module pattern (most prevalent use of closure and pattern)
 
-### this & Object Prototypes
+## this & Object Prototypes
 
 ---
 
@@ -21,14 +19,14 @@
 - However what is wrapped up in the prototypes is not the emulation of classes or the inheritance (prototypal)
 - Prototypes work on the principal of **_'behaviour delegation'_**
 
-### Types & Grammar
+## Types & Grammar
 
 ---
 
 - Implicit and Explicit Coercion
 - Implicit is not inherently a bad thing, in the cases where it is needed it is sensible and more often than not useful
 
-### Async & Performance
+## Async & Performance
 
 ---
 
@@ -51,7 +49,7 @@ A time-independent wrapper around a 'future value', which lets you reason about 
 
 A new mode of execution for functions. It can be paused at `yield` points and be resumed asynchronously later. This pause-and-resume capability ensures synchronous, sequential-looking code can be process asynchronously.
 
-### ES6 & Beyond
+## ES6 & Beyond
 
 ---
 

@@ -1,8 +1,4 @@
-# Scope and Closures
-
-## Chapter 1 - What is Scope?
-
----
+# Chapter 1 - What is Scope?
 
 - Giving a program state is often related to its ability to store and pull values out of variables.
 - Most often in development, we want to answer the following questions:
@@ -12,7 +8,7 @@
 
 - A set of rules for storing variables in some location and finding those variables at a later time is called scope
 
-### Compiler Theory
+## Compiler Theory
 
 ---
 
@@ -76,17 +72,9 @@ VariableDeclaration (const)
     ↳ NumericLiteral (2)
 ```
 
-<a name='code-generation'>Code-Generation</a>
+<a name='code-generation'>Code-Generation</a> - The process of taking an AST and turning it into executable code.
 
----
-
-The process of taking an AST and turning it into executable code.
-
-### Understanding Scope
-
----
-
-#### Players
+## Understanding Scope
 
 ---
 
@@ -95,10 +83,6 @@ The process of taking an AST and turning it into executable code.
 - Scope:
   - Collects and maintains a lookup list of all the declared identifiers (variables)
   - Enforces strict rules pertaining to accessibility in the context of currently executing code
-
-#### Back and Forth
-
----
 
 When reading `const a = 2;`, it can be interpreted as one statement. Then Engine would break it down into two distinct statements. One statement is handled by the Compiler at compilation and the other statement is handled at execution by the Engine.
 
@@ -122,9 +106,7 @@ This is not the case, it follows something more along the lines of:
 
 If Engine finds the variable it assigns the value 2, otherwise it will raise an error.
 
-#### Compiler Speak
-
----
+### Compiler Speak
 
 When the Engine looks up a variable to see if it has been declared, it consults Scope.
 
@@ -153,9 +135,7 @@ The last line of the example calls `foo(..)`, this is a RHS reference asking to 
 
 The first line of the example has a subtle assignment where `a = 2`, this is LHS, as again we don't care what the value of `a` is, we want to implicitly change it
 
-#### The Conversation
-
----
+### The Conversation
 
 ```javascript
 const foo = (a) => {
@@ -182,7 +162,7 @@ const c = foo(2);
 | I have a RHS look-up for b, no change?        | Still the same                       | -            |
 | Cool I will return a + b                      | -                                    | RHS - a, b   |
 
-### Nested Scope
+## Nested Scope
 
 ---
 

@@ -1,4 +1,4 @@
-## Chapter 5 - Scope Closure
+# Chapter 5 - Scope Closure
 
 ---
 
@@ -57,7 +57,7 @@ counter(); // 2
 
 - A more simple example, by using a variable scoped to the function; `c`, we prevent any access outside of the function to the variable, but continue to keep it accessible to the function
 
-### Loops and Closure
+## Loops and Closure
 
 ---
 
@@ -83,7 +83,7 @@ for (var i = 1; i <= 5; i++) {
 
 - By putting setTimeout inside an IIFE, each iteration provides a new scope; thus giving the timeout callback the opportunity to close over the scope for each iteration
 
-### Block Scoping
+## Block Scoping
 
 ---
 
