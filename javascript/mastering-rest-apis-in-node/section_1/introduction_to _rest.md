@@ -42,13 +42,13 @@ REST is also stateless, meaning that no information from the client's session is
 
 ## <a name='status_codes' href='#'>Status Codes and Messages</a>
 
-| code |     | message                |
-| ---- | --- | ---------------------- |
-| 1xx  |     | Informational messages |
-| 2xx  |     | Success Messages       |
-| 3xx  |     | Redirection Messages   |
-| 4xx  |     | Client Error Messages  |
-| 5xx  |     | Server Error Messages  |
+| code | message                |
+| ---- | ---------------------- |
+| 1xx  | Informational messages |
+| 2xx  | Success Messages       |
+| 3xx  | Redirection Messages   |
+| 4xx  | Client Error Messages  |
+| 5xx  | Server Error Messages  |
 
 ## <a name='methods'>HTTP Methods</a>
 
@@ -66,28 +66,28 @@ REST is also stateless, meaning that no information from the client's session is
 
 ## <a name='api_keys'>API Keys</a>
 
-| Auth Type |     | Notes                                                                                            |
-| --------- | --- | ------------------------------------------------------------------------------------------------ |
-| API Keys  |     | Consists of a long random string                                                                 |
-|           |     | Should be included as part of the request headers - e.g. Authorization {key}                     |
-|           |     | Public and Private Keys                                                                          |
-|           |     | <ul><li>Pub keys can be shared</li><li>Pri keys are for server-to-server communication</li></ul> |
+| Auth Type | Notes                                                                                            |
+| --------- | ------------------------------------------------------------------------------------------------ |
+| API Keys  | Consists of a long random string                                                                 |
+|           | Should be included as part of the request headers - e.g. Authorization {key}                     |
+|           | Public and Private Keys                                                                          |
+|           | <ul><li>Pub keys can be shared</li><li>Pri keys are for server-to-server communication</li></ul> |
 
 ## <a name='oauth'>OAuth Tokens</a>
 
-| Auth Type    |     | Notes                                                                                 |
-| ------------ | --- | ------------------------------------------------------------------------------------- |
-| OAuth Tokens |     | Open Authentication Standard, Access Token                                            |
-|              |     | App sends an application key and a secret to an authentication server                 |
-|              |     | Once authenticated against the server, an access token is provided                    |
-|              |     | <ul><li>Access tokens provide permissions</li><li>Used to make API requests</li></ul> |
+| Auth Type    | Notes                                                                                 |
+| ------------ | ------------------------------------------------------------------------------------- |
+| OAuth Tokens | Open Authentication Standard, Access Token                                            |
+|              | App sends an application key and a secret to an authentication server                 |
+|              | Once authenticated against the server, an access token is provided                    |
+|              | <ul><li>Access tokens provide permissions</li><li>Used to make API requests</li></ul> |
 
 ## <a name='jwt'>JWT Tokens</a>
 
-| Auth Type  |     | Notes                                                                                                                                                                     |
-| ---------- | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| JWT Tokens |     | JSON Web Token, base64 encoded version of the following data, separated by dots:                                                                                          |
-|            |     | <ul><li>Header - defines hashing algorithm</li><li>Payload - expiry, issued at time, public claims</li><li>Signature - hash of the header, payload and a secret</li></ul> |
+| Auth Type  | Notes                                                                                                                                                                     |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| JWT Tokens | JSON Web Token, base64 encoded version of the following data, separated by dots:                                                                                          |
+|            | <ul><li>Header - defines hashing algorithm</li><li>Payload - expiry, issued at time, public claims</li><li>Signature - hash of the header, payload and a secret</li></ul> |
 
 # _NB_ GraphQL
 
