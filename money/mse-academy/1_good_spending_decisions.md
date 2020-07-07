@@ -54,7 +54,7 @@ Spending is not solely based on the price of something, social pressures are a c
 
 [Max Weber](https://en.wikipedia.org/wiki/Max_Weber), states that:
 
-> 'A person's social status is based on the level of authority or prestige that they hold in the eyes of others'.
+> 'Authority or prestige perceived by others defines the level of a person's social status'
 
 Whilst a person's job or income level reflects social standing, so does the features of what goods and services they buy.
 
@@ -64,7 +64,7 @@ Whilst a person's job or income level reflects social standing, so does the feat
 
 What we consume defines our identity, as fashion and trends change so do out identities. This, in turn, can put pressure on a person's finances as they try to keep up with those trends
 
-In a consumer society, goods and services may also act as status symbols. The latest smartphone or car acts as motivation for spending. This is down to concern of what others think, based on what a person consumes and owns. This is also known as symbolic consumption.
+In a consumer society, goods and services may also act as status symbols. The latest smartphone or car acts as motivation for spending. This is down to concern about what others think, based on what a person consumes and owns. This is also known as symbolic consumption.
 
 [Thorstein Veblen](https://en.wikipedia.org/wiki/Thorstein_Veblen), talked about how spending is a way of displaying wealth. Examples of displaying wealth are buying designer clothing or a Ferrari, these are symbols of wealth. Referred to as 'conspicuous consumption'.
 
@@ -99,7 +99,7 @@ This preference also means that people prefer to delay payment rather than make 
 
 #### Case Study
 
-You are buying a vacuum cleaner at £100. You need to borrow money to buy it, and have the following choices for loans. Which loan option would you choose?
+You are buying a vacuum cleaner at £100. You need to borrow money to buy it and have the following choices for loans. Which loan option would you choose?
 
 - Loan 1: Pay £120 back at the end of the year
 - Loan 2: Pay £115 back at the end of the year
@@ -211,9 +211,7 @@ We have difficulty making changes so one may choose the middle option, even if i
 
 # Personality and Its Affect on Spending
 
-Phineas Gage was a railway worker, he would build tunnels. He would drill holes in rock and then compress blasting powder with a tamping-iron (metal rod). Sometimes what would happen; whilst compressing blasting powder, sparks would trigger the blasting powder, shooting the rod out at high speed and that’s what happened to Phineas Gage. It went straight through his head. It took out the part of his brain responsible for emotional processing. An early example of how we started to learn about what bits of the brain do.
-
-Psychologists used to treat cognition, thinking and emotions as two separate processes. But what we’re learning more and more is that cognitions and emotions intertwine and that, emotions are an important part of our thinking processes.
+Phineas Gage was a railway worker. He would drill holes in rock and then compress blasting powder with a tamping-iron (metal rod). Sometimes what would happen; whilst compressing blasting powder, sparks would trigger the blasting powder, shooting the rod out at high speed and that’s what happened to Phineas Gage. It went straight through his head. It took out the part of his brain responsible for emotional processing. Psychologists used to treat cognition, thinking and emotions as two separate processes. But what we’re learning more and more is that cognitions and emotions intertwine and that, emotions are an important part of our thinking processes.
 
 If we have a situation, we’ve got to make a decision, a sort of classical way of thinking about this might be: well there are some facts, we’ve got some options for making decisions, we can represent the future in some way, do a bit of internal modelling of what’s going to happen. Going on in parallel with that though is a different process. It’s the activation and biases or pre-existing scripts for deciding; based on our emotional experience of comparable situations.
 
@@ -223,7 +221,7 @@ People see money as power, money as love, money as freedom, money as security. M
 
 # Marketing Forces and Their Affect on Our Spending
 
-A common belief is that the higher the price the more it equates to quality. It's a mental shortcut to assess the quality and covers the short fall in situations where information is lacking. It's important to remember that price and quality are not remotely related to one another
+A common belief is that the higher the price the more it equates to quality. It's a mental shortcut to assess the quality and covers the shortfall in situations where information is lacking. It's important to remember that price and quality are not remotely related to one another
 
 #### Common mental shortcuts we use when determining what to buy
 
@@ -281,7 +279,7 @@ Making sound financial decisions, including those when you’re buying big-ticke
 
 The four-step model provides the means to assess different insurance products rigorously whilst facilitating appropriate choices.
 
-Each year, large sums of finance go towards insurance. If applying the model can improve product selection, then savings generated could be substantial.
+Each year, large sums of finance go towards insurance. If applying the model can improve product selection, we have the potential to save considerably.
 
 First, let’s look at the basics of insurance.
 
@@ -364,11 +362,11 @@ This insurance product is not cheap as it can typically be between £5 and £20 
 
 Assess whether the cover justifies the cost and also what the cover include
 
-Cover often includes the loss of your phone (theft or misplaced); it might also cover unauthorised calls, accidents and accessories taken during theft. It's important to anticipate situations that an insurance policy would not cover.
+The cover often includes the loss of your phone (theft or misplaced); it might also cover unauthorised calls, accidents and accessories taken during theft.
 
 Policies tend to exclude certain situations such as:
 
-- Carelessness causing damage
+- Carelessness that causes damage
 - Theft of an unattended phone
 - Water damage
 - Delays in reporting the theft or loss of your phone
@@ -392,12 +390,13 @@ Here are some useful tips for consumers buying online, most tips on buying onlin
 
 - Don’t visit one site before you buy. That great deal might be on offer somewhere else – and cheaper.
 - Use retailers and services you know about – or recommendations from a trusted source. Check out reviews online
-- A great website doesn’t mean it’s law-abiding. Make sure you know the trader’s full address – especially if the company is outside of the UK. The internet makes buying from abroad easy so you must know your rights.
+- A great website doesn’t mean it’s law-abiding
+  - Know the trader’s full address, even if the company is outside of the UK. The internet makes buying from abroad easy so you must know your rights.
 - Don’t assume an internet company is in the UK because its web address has ‘UK’ in it – check out the physical address and phone number.
 - Take into account the shipping, postage and packing costs. Weigh them up against the parking and travelling costs you would have to pay if you went to the high street.
 - Consider paying by credit card, if the item you’re buying costs more than £100, you get Section 75 protection, meaning you can claim from the credit card company if anything goes wrong. Buying for under £100? You’ll still get chargeback protection.
 - If you are thinking of buying from an overseas website, check the costs incurred if there is a reason to return the goods.
 - Look for websites that have a secure way of paying (known as an encryption facility) these show a padlock, before the web address or at the bottom of the screen when you’re filling in the payment details. Also, check the web address starts with ‘https’ rather than ‘http’.
-- Check whether the company has the privacy statement that tells you what it will do with your personal information if collected. GDPR requires companies to divulge this
+- Check whether the company has the privacy statement that tells you what it will do with your personal information. GDPR requires companies to divulge this
 - If buying from an auction site, check the seller’s reputation. Be careful, some traders will make up accounts and post good comments about themselves. Look at the history of the person giving feedback.
-- Be wary: if the price is too good to be true, it usually is.
+- If the price is too attractive, be wary
