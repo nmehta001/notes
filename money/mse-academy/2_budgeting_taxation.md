@@ -1,4 +1,17 @@
-# Income and Taxation
+- [1. Income and Taxation](#1-income-and-taxation)
+- [2. Understanding Income Tax](#2-understanding-income-tax)
+  - [2.1 Deductions from your gross earnings](#21-deductions-from-your-gross-earnings)
+  - [2.2 Income tax in England, Wales and Northern Island](#22-income-tax-in-england-wales-and-northern-island)
+  - [2.3 The economic impact of income tax](#23-the-economic-impact-of-income-tax)
+- [3. Nation Insurance Contributions](#3-nation-insurance-contributions)
+- [4. Understanding Tax Codes](#4-understanding-tax-codes)
+- [5. Why Budget?](#5-why-budget)
+- [6. The Income Side of the Budget](#6-the-income-side-of-the-budget)
+- [7. The Spending Side of the Budget](#7-the-spending-side-of-the-budget)
+- [8. Building a Budget](#8-building-a-budget)
+- [9. Trimming on Spending](#9-trimming-on-spending)
+
+# 1. Income and Taxation
 
 After all taxes and deductions from your gross income, what you receive is your net income.
 
@@ -7,7 +20,7 @@ When it budgeting there are two sides to focus on:
 - Calculating income
 - Forecasting spending
 
-# Understanding Income Tax
+# 2. Understanding Income Tax
 
 As an employee, your deductions are automatically calculated taking into account
 
@@ -17,7 +30,7 @@ As an employee, your deductions are automatically calculated taking into account
 - Student Loans
 - Any other deductions
 
-## Deductions from your gross earnings
+## 2.1 Deductions from your gross earnings
 
 The two biggest deductions from your gross income is income tax and National Insurance Contributions (NICs)
 
@@ -32,7 +45,7 @@ Untaxed Exclusions:
 - Premium Bond winnings
 - ISA earnings
 
-## Income tax in England, Wales and Northern Island
+## 2.2 Income tax in England, Wales and Northern Island
 
 When you earn above the personal allowance in any tax year, the three bands below determine that amount of tax you pay:
 
@@ -42,11 +55,11 @@ When you earn above the personal allowance in any tax year, the three bands belo
 
 Income tax rises in proportion to your earnings (progressive tax).
 
-## The economic impact of income tax
+## 2.3 The economic impact of income tax
 
 Income tax accounts for nearly one-third of the government's tax receipts. It's used to pay for government spendings such as the police, the NHS and the civil service.
 
-# Nation Insurance Contributions
+# 3. Nation Insurance Contributions
 
 The second important deduction from your gross income is National Insurance Contributions, these come from both you as an employee and your employer.
 
@@ -62,7 +75,7 @@ As with income tax, the rules and regulations surrounding National Insurance cha
 
 Whilst the rates and bands have not changed for 2020/21, the lower-income threshold has increased.
 
-## Bands for Class 1 NICs in 2019/20 and 2020/21
+**Bands for Class 1 NICs in 2019/20 and 2020/21**
 
 | Rate | 2019/20          | 2020/21          |
 | ---- | ---------------- | ---------------- |
@@ -70,7 +83,7 @@ Whilst the rates and bands have not changed for 2020/21, the lower-income thresh
 | 12%  | £8,632 – £50,000 | £9,500 – £50,000 |
 | 2%   | £50,000+         | £50,000+         |
 
-#### Calculating tax
+**Calculating tax**
 
 For an income of £56,000 in the tax year of 2019/20, we can break down the total deductions made on the gross income:
 
@@ -96,7 +109,7 @@ For an income of £56,000 in the tax year of 2019/20, we can break down the tota
 
 > Net Income: `£56,000 - £5084.16 - £9,900 = £41015.84`
 
-# Understanding Tax Codes
+# 4. Understanding Tax Codes
 
 Your tax code tells your employer or pension provider how much income tax to deduct from your salary or pension and you will find it every payslip.
 
@@ -117,7 +130,7 @@ There are two tax forms that you will become familiar with in your working life:
 - P45: the statement of income paid and tax deducted so far for the year when you leave a job (called the ‘prevailing tax year’).
   - Your new employer will need this to determine your tax code and how much tax you've already paid
 
-## The Different Tax Codes
+**The Different Tax Codes**
 
 |  Code  | Explanation                                                                                                                                                             |
 | :----: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -134,7 +147,7 @@ There are two tax forms that you will become familiar with in your working life:
 
 Emergency tax codes get updated automatically after you have given your employer your P45 (see above). If you’re on an emergency tax code for more than a month or two after starting a new job, it’s best to contact HMRC and ask them to send your employer an updated tax code. You will always start a new tax year with the normal tax code, not an emergency one.
 
-# Why Budget?
+# 5. Why Budget?
 
 A budget helps in the following ways:
 
@@ -144,7 +157,7 @@ A budget helps in the following ways:
 - Focus on better ways to spend money
 - Plan spending goals and other targets like saving
 
-# The Income Side of the Budget
+# 6. The Income Side of the Budget
 
 When measuring the income side of budgeting, you should consider four issues:
 
@@ -162,7 +175,7 @@ When measuring the income side of budgeting, you should consider four issues:
 
 To identify what counts as income and wealth, think of what you are assessing. If it comes in the form of cash that can be spent it's income. If it produces cash only after they can be sold, it's wealth.
 
-# The Spending Side of the Budget
+# 7. The Spending Side of the Budget
 
 Let's try and categorise some items that we may want or need, with the categories being:
 
@@ -184,7 +197,7 @@ Let's try and categorise some items that we may want or need, with the categorie
 
 You can do the same with your own spending habits, break them down and categorise them in the same way.
 
-# Building a Budget
+# 8. Building a Budget
 
 Start with all income, including earnings from work, benefits, pensions and investments. If unsure about any income, it’s best not to include it.
 
@@ -241,7 +254,7 @@ The annual budget will present a high-level overview of finances and whether ove
 
 The monthly budget will help you manage your day-to-day money, indicating if this is a month of heavy spending (e.g. December, with its Christmas spending for most people) or a month of light spending. Monthly snapshots will also highlight when it might be necessary to draw on savings to cover a month of heavy spending or place money in savings when the monthly spending is low.
 
-# Trimming on Spending
+# 9. Trimming on Spending
 
 Ways to cut back on spending:
 
