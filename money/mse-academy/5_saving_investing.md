@@ -3,23 +3,19 @@
 - [2. The UK’s Savings Problem](#2-the-uks-savings-problem)
 - [3. What Savings Accounts Can I Get?](#3-what-savings-accounts-can-i-get)
   - [3.1 Savings Accounts](#31-savings-accounts)
-      - [3.1.1 Easy Access (Or ’Instant Access’) Accounts](#311-easy-access-or-instant-access-accounts)
-      - [3.1.2 Fixed-Rate Accounts](#312-fixed-rate-accounts)
-      - [3.1.3 Notice Accounts](#313-notice-accounts)
-      - [3.1.4 Limited Access Accounts](#314-limited-access-accounts)
-      - [3.1.5 Regular Savings Accounts](#315-regular-savings-accounts)
+    - [3.1.1 Easy Access (Or ’Instant Access’) Accounts](#311-easy-access-or-instant-access-accounts)
+    - [3.1.2 Fixed-Rate Accounts](#312-fixed-rate-accounts)
+    - [3.1.3 Notice Accounts](#313-notice-accounts)
+    - [3.1.4 Limited Access Accounts](#314-limited-access-accounts)
+    - [3.1.5 Regular Savings Accounts](#315-regular-savings-accounts)
   - [3.2 What About Premium Bonds?](#32-what-about-premium-bonds)
 - [4. Should You Get an ISA?](#4-should-you-get-an-isa)
   - [4.1 Home or Retirement](#41-home-or-retirement)
-      - [4.1.1 Lifetime ISAs](#411-lifetime-isas)
-      - [4.1.2 Help-To-Buy ISAs](#412-help-to-buy-isas)
-- [5. Interest and Tax](#5-interest-and-tax)
-      - [5.1 The Personal Savings Allowance](#51-the-personal-savings-allowance)
-- [6. Final Points](#6-final-points)
-      - [6.1 How Do I Want to Operate My Accounts?](#61-how-do-i-want-to-operate-my-accounts)
-- [7. Money Safety and Savings Accounts](#7-money-safety-and-savings-accounts)
-      - [7.1 Extra Protection](#71-extra-protection)
-      - [7.2 Other Savings Risks](#72-other-savings-risks)
+    - [4.1.1 Lifetime ISAs](#411-lifetime-isas)
+    - [4.1.2 Help-To-Buy ISAs](#412-help-to-buy-isas)
+- [5. Interest and Tax](#5-interest-and-tax) - [5.1 The Personal Savings Allowance](#51-the-personal-savings-allowance)
+- [6. Final Points](#6-final-points) - [6.1 How Do I Want to Operate My Accounts?](#61-how-do-i-want-to-operate-my-accounts)
+- [7. Money Safety and Savings Accounts](#7-money-safety-and-savings-accounts) - [7.1 Extra Protection](#71-extra-protection) - [7.2 Other Savings Risks](#72-other-savings-risks)
 - [8. Drawing up Your Savings Strategy](#8-drawing-up-your-savings-strategy)
 - [9. Investments](#9-investments)
   - [9.1 Shares](#91-shares)
@@ -373,8 +369,9 @@ Here’s an explanation of the information presented in the columns of the table
 
 The most telling information is where the current share price is concerning the high and low points in the past year. The investor can see that share prices close to the year’s high are doing better than those that are closer to the year’s low. If most/ all share prices are nearer to the year’s low then the equity market is experiencing a period of weakness. The Yield and P/E columns are little more complex to interpret, for example, a high yield might be due to a company paying a higher dividend to keep investors happy at a time of difficulties for the business.
 
-The price of a share varies from minute to minute depending on the balance of investors who want to buy and sell them. 
-  - When an investor sells at a higher price relative to the price they bought it for, they make a capital gain, otherwise, it’s a loss if they sell it for less.
+The price of a share varies from minute to minute depending on the balance of investors who want to buy and sell them.
+
+- When an investor sells at a higher price relative to the price they bought it for, they make a capital gain, otherwise, it’s a loss if they sell it for less.
 
 Stockbrokers sell shares, and they can be a specialist company or an arm of a high street bank. You can find one via a variety of methods, be that word-of-mouth, through the internet, or the Personal Investment Management and Financial Advice Association (PIMFA).
 
@@ -390,7 +387,7 @@ Although less risky than shares, bonds are riskier than savings accounts. This i
 
 With a bond, if it’s sold before maturity, you may receive more or less than the original amount you put in. Whether it’s more or less will depend on movements in the level of interest rates after issuing the bond.
 
-Another risk of bonds is, if the issuer of a bond goes bust then you have no protection and may lose your investment. 
+Another risk of bonds is, if the issuer of a bond goes bust then you have no protection and may lose your investment.
 
 ## 9.3 Commodities
 
@@ -400,8 +397,8 @@ Generally, there are two major attractions to these investments:
 
 - The prices of commodities tend to rise during periods of price inflation. They offer a ’hedge’ against the risk that inflation erodes the real value of your investments.
 
-- Commodity prices also often move in the opposite direction to other asset classes such as shares and property. 
-  - During periods of weakness in equity markets, moving to gold might be the right choice. 
+- Commodity prices also often move in the opposite direction to other asset classes such as shares and property.
+  - During periods of weakness in equity markets, moving to gold might be the right choice.
   - As a consequence, investing in commodities can be an effective way to balance the risks on a portfolio also containing assets like shares and property.
 
 Commodity prices can be volatile and are certainly at risk of periodic sharp falls. In some ways, such investments have the same risk as investing in an individual share as opposed to investing in a balanced portfolio of shares.
@@ -505,16 +502,17 @@ One way that you can invest money in a fund is through Stocks and Shares ISAs. Y
 There are some key principles to help make decisions when investing:
 
 - Investing is a long-term process, you will need to ride out the times when your investment falls in value.
+
   - Manage your expectations and don‘t expect to see massive short-term gains.
 
-- If your investment falls in value early on, this is not a problem. What matters is the price you buy and sell at. 
+- If your investment falls in value early on, this is not a problem. What matters is the price you buy and sell at.
+
   - There is time for your investment to recover.
   - Don‘t sell at the bottom of the market as you will solidify any losses made.
 
 - Don‘t put all your investments into one area, it’s better to spread out your capital.
 
-- Consider the tax benefits of investing in a stocks and shares ISA. 
-
+- Consider the tax benefits of investing in a stocks and shares ISA.
 
 # 11. Peer-to-peer (P2P) Products
 
@@ -536,7 +534,6 @@ The benefit of getting advice is that you should get the products that meet your
 
 Some advisers are independent and can provide you with a full range of information on products that interest you when it comes to investments. Other advisers may offer a more restricted service where they offer a finite set of products. Advisers will always disclose whether they are ‘restricted’ or not in the guidance they can provide.
 
-
 Advised product sales give you the flexibility to hear what options are available, then leaving the product choice up to you as opposed to being non-advised about a product.
 
 Advised sales point you to particular products. If your adviser recommends an unsuitable product, you have a good case for claiming it has been ‘mis-sold’ to you. Be aware that unsuitable is not the same as ‘loss-making’.
@@ -548,9 +545,10 @@ The key questions to ask yourself are:
 - Am I an experienced investor?
 - Can I afford to lose at least part of the capital sum invested?
 - Have I the time to both put in the research ahead of investing and then watch the investment after I have acquired it?
-  
-If your answer is no to at least one of the following questions then seeking financial advice is worth considering. 
-  - If the answer is no to all three questions, advice is essential.
+
+If your answer is no to at least one of the following questions then seeking financial advice is worth considering.
+
+- If the answer is no to all three questions, advice is essential.
 
 Yes to all three questions means you may consider yourself able to make your own decisions and to transact without advice using a low-cost provider of the products you want.
 
@@ -567,4 +565,3 @@ Before 2013, advisers often earned their income by receiving commission from the
 You may find a good adviser through word-of-mouth or online. Practice caution, that the adviser is not steering you solely towards the products offered by any associated institution.
 
 The [Money and Pensions Service](https://moneyadvice.org.uk/en/categories/getting-advice-about-retirement) provides guidance on the use of financial advisers, [Unbiased](https://unbiased.co.uk) provides a list of authorized financial advisers. You can also check an adviser against the [FCA register](https://register.fca.org.uk).
-
