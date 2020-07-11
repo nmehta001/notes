@@ -16,7 +16,7 @@
 | Council Tax                                   | A tax raised by local authorities. Based on the valuations of properties                                                             |
 | Credit ratings                                | Assessments of credit worthiness made by credit rating agencies.                                                                     |
 | Discount rates                                | determining the present value of a payment or a stream of payments expected in the future                                            |
-| Dividends                                     | The payments typically made annually or semi-annually to a company’s shareholders.                                                   |
+| Dividends                                     | The payments typically made annually or semi-annually to a company's shareholders.                                                   |
 | Early repayment charges                       | A charge that your lender will make if you leave your mortgage before the allotted term.                                             |
 | Equity release                                | Retaining use of a house, while also obtaining a lump sum or a steady stream of income, using the value of the house.                |
 | Exchange traded funds (ETFs)                  | Companies traded on the stock market where the share price is directly linked to the value of the underlying investments they hold.  |
@@ -27,7 +27,7 @@
 | GDPR                                          | General Data Protection Regulation, EU regulation covering data protection for the public                                            |
 | Gross income                                  | Income before any deductions, including income tax, NICs and pension contributions                                                   |
 | Ground rent                                   | A payment made by the leaseholder of a property to the freeholder of the land                                                        |
-| HMRC                                          | Her Majesty’s Revenue and Customs The UK body responsible for collecting tax revenues                                                |
+| HMRC                                          | Her Majesty's Revenue and Customs The UK body responsible for collecting tax revenues                                                |
 | Hedge                                         | A means of counterbalancing the adverse price movement of an asset or group of assets.                                               |
 | Help-to-Buy ISA                               | An ISA that provides a government bonus when used by first-time buyers to help buy a property.                                       |
 | ISA Allowance                                 | The amount each UK adult can deposit into an ISA account in each tax year.                                                           |
@@ -46,12 +46,12 @@
 | National Insurance Contributions (NICs)       | Deductions from earnings, contributions help to determine entitlement to state benefits                                              |
 | National Savings and Investments (NS&I)       | The UK state owned savings bank. The government uses this body to borrow money from the public.                                      |
 | Net income                                    | Income after all deductions from gross income                                                                                        |
-| Nominal                                       | Not adjusted to take account of price inflation. aka ‘in cash terms’                                                                 |
+| Nominal                                       | Not adjusted to take account of price inflation. aka 'in cash terms'                                                                 |
 | Notice Accounts                               | Savings accounts that require a period of notice to access the funds without a charge                                                |
 | Per annum (p.a.)                              | Per year.                                                                                                                            |
 | Personal savings allowance                    | The amount of interest that earned each tax year free of income tax.                                                                 |
 | Premium Bond                                  | A lottery bond issued by the UK government                                                                                           |
-| Present value                                 | The value in today’s money of a future cash flow or a series of cash flows.                                                          |
+| Present value                                 | The value in today's money of a future cash flow or a series of cash flows.                                                          |
 | Progressive tax                               | A tax where the amount paid as a proportion of gross income increases as income rises                                                |
 | Real                                          | Adjusted to take account of price inflation                                                                                          |
 | Real Estate Investment Companies (REICs)      | Companies whose business can comprise buying, selling, renovating and letting properties and financing property developments.        |

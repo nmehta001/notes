@@ -1,9 +1,9 @@
 - [1. Income and Taxation](#1-income-and-taxation)
 - [2. Understanding Income Tax](#2-understanding-income-tax)
-  - [2.1 Deductions from your gross earnings](#21-deductions-from-your-gross-earnings)
-  - [2.2 Income tax in England, Wales and Northern Island](#22-income-tax-in-england-wales-and-northern-island)
-  - [2.3 The economic impact of income tax](#23-the-economic-impact-of-income-tax)
-- [3. Nation Insurance Contributions](#3-nation-insurance-contributions)
+  - [2.1 Deductions From Your Gross Earnings](#21-deductions-from-your-gross-earnings)
+  - [2.2 Income Tax in England, Wales and Northern Island](#22-income-tax-in-england-wales-and-northern-island)
+  - [2.3 The Economic Impact of Income Tax](#23-the-economic-impact-of-income-tax)
+- [3. National Insurance Contributions](#3-national-insurance-contributions)
 - [4. Understanding Tax Codes](#4-understanding-tax-codes)
 - [5. Why Budget?](#5-why-budget)
 - [6. The Income Side of the Budget](#6-the-income-side-of-the-budget)
@@ -30,7 +30,7 @@ As an employee, your deductions are automatically calculated taking into account
 - Student Loans
 - Any other deductions
 
-## 2.1 Deductions from your gross earnings
+## 2.1 Deductions From Your Gross Earnings
 
 The two biggest deductions from your gross income is income tax and National Insurance Contributions (NICs)
 
@@ -45,7 +45,7 @@ Untaxed Exclusions:
 - Premium Bond winnings
 - ISA earnings
 
-## 2.2 Income tax in England, Wales and Northern Island
+## 2.2 Income Tax in England, Wales and Northern Island
 
 When you earn above the personal allowance in any tax year, the three bands below determine that amount of tax you pay:
 
@@ -55,11 +55,11 @@ When you earn above the personal allowance in any tax year, the three bands belo
 
 Income tax rises in proportion to your earnings (progressive tax).
 
-## 2.3 The economic impact of income tax
+## 2.3 The Economic Impact of Income Tax
 
 Income tax accounts for nearly one-third of the government’s tax receipts. It’s used to pay for government spendings such as the police, the NHS and the civil service.
 
-# 3. Nation Insurance Contributions
+# 3. National Insurance Contributions
 
 The second important deduction from your gross income is National Insurance Contributions, these come from both you as an employee and your employer.
 
@@ -83,7 +83,7 @@ Whilst the rates and bands have not changed for 2020/21, the lower-income thresh
 | 12%  | £8,632 — £50,000 | £9,500 — £50,000 |
 | 2%   | £50,000+         | £50,000+         |
 
-**Calculating tax**
+**Calculating Tax**
 
 For an income of £56,000 in the tax year of 2019/20, we can break down the total deductions made on the gross income:
 

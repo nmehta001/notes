@@ -1,19 +1,19 @@
-- [1. Getting a mortgage: how much can I borrow?](#1-getting-a-mortgage-how-much-can-i-borrow)
-- [2. The property in question and the importance of ’loan-to-value’](#2-the-property-in-question-and-the-importance-of-loan-to-value)
-  - [2.1 Repayment or interest-only](#21-repayment-or-interest-only)
-    - [2.1.1 Repayment mortgage](#211-repayment-mortgage)
-    - [2.1.2 ‘Interest-only’ mortgage:](#212-interest-only-mortgage)
-  - [2.2 Fixed-rate or variable rate?](#22-fixed-rate-or-variable-rate)
+- [1. Getting a Mortgage](#1-getting-a-mortgage)
+- [2. The Property in Question and the Importance of ’Loan-To-Value’](#2-the-property-in-question-and-the-importance-of-loan-to-value)
+  - [2.1 Repayment or Interest-Only](#21-repayment-or-interest-only)
+    - [2.1.1 Repayment Mortgage](#211-repayment-mortgage)
+    - [2.1.2 ‘Interest-Only’ mortgage](#212-interest-only-mortgage)
+  - [2.2 Fixed-Rate or Variable Rate?](#22-fixed-rate-or-variable-rate)
     - [2.2.1 Fixed-Rate Mortgages](#221-fixed-rate-mortgages)
     - [2.2.2 Variable Rate Mortgages](#222-variable-rate-mortgages)
-- [3. Mortgage choices: offset, flexible and portable mortgages](#3-mortgage-choices-offset-flexible-and-portable-mortgages)
+- [3. Mortgage Choices](#3-mortgage-choices)
 - [4. Managing your mortgage: Overpaying](#4-managing-your-mortgage-overpaying)
   - [4.1 Moving to another Deal](#41-moving-to-another-deal)
   - [4.2 Ditching a fixed-rate mortgage](#42-ditching-a-fixed-rate-mortgage)
 - [5. The other costs of buying a property](#5-the-other-costs-of-buying-a-property)
 - [6. Mortgages: understanding and managing the risks](#6-mortgages-understanding-and-managing-the-risks)
 
-# 1. Getting a mortgage: how much can I borrow?
+# 1. Getting a Mortgage
 
 Before making an offer to buy a property, it’s important to know what terms and how much a lender will advance you. This gives you insight into what you can afford. Subsequently, you can counter with specific details of the property you wish to buy.
 
@@ -55,13 +55,13 @@ So ahead of talking to your lender, there are some preparations you can make to 
 
 - Make sure you are aware of the costs involved in completing the purchase of your property — like legal and removal costs, as well as any fees payable to secure a mortgage.
 
-# 2. The property in question and the importance of ’loan-to-value’
+# 2. The Property in Question and the Importance of ’Loan-To-Value’
 
 Your lender will want to also know the details of the property you want to buy, this is because they want to secure the debt against the property.
 
 The three details they will want to know:
 
-- Is the property a freehold or a leasehold?
+- Is the property freehold or leasehold?
 
   - Leaseholders do not own the land that the property is on and will own the property for the term of the lease.
     - Most lenders are unwilling to lend on leasehold properties. (< 80 years)
@@ -80,7 +80,7 @@ For a property costing £200,000, a 95% LTV mortgage would enable you to borrow 
 
 To supplement the rest of the mortgage, this can be from savings. For first-time buyers, the can draw on a Help-to-Buy ISA or a Lifetime ISA (LISA).
 
-## 2.1 Repayment or interest-only
+## 2.1 Repayment or Interest-Only
 
 You have to consider what options are available when repaying your mortgage:
 
@@ -89,11 +89,11 @@ You have to consider what options are available when repaying your mortgage:
 
 In most cases, lenders will use the former option, making the decision simple!
 
-### 2.1.1 Repayment mortgage
+### 2.1.1 Repayment Mortgage
 
 With a repayment mortgage, you pay off the debt in stages throughout the life of the loan. The typical structure is a reducing balance loan with a set amount paid each month throughout the mortgage term unless the interest rate changes. The table below exemplifies this pattern. (£100,000 at a 4% mortgage rate)
 
-**Annual payments on a repayment mortgage (£)**
+**Annual Payments on a Repayment Mortgage (£)**
 
 | In year | Interest paid | Capital repaid | Total mortgage payment |
 | ------- | ------------- | -------------- | ---------------------- |
@@ -106,13 +106,13 @@ With a repayment mortgage, you pay off the debt in stages throughout the life of
 
 Initially, a small proportion of repayments go towards paying the capital owed as the rest go to paying off the interest. As you get closer towards the end of the mortgage, repayments will go towards paying off more off the capital owed. When repayments start, it might be surprising how much of the original amount remains.
 
-### 2.1.2 ‘Interest-only’ mortgage:
+### 2.1.2 ‘Interest-Only’ mortgage
 
 For this repayment option, you will pay the interest off and at the end of the loan period, you have to pay the original amount off in full.
 
-## 2.2 Fixed-rate or variable rate?
+## 2.2 Fixed-Rate or Variable Rate?
 
-Over the course of your mortgage, you can actually change your mortgage type, effectively getting the best deal you can when it makes financial sense to do so. By exploring the different mortgage products you can understand how the lender sets interest rates.
+Throughout your mortgage, you can change your mortgage type, effectively getting the best deal you can when it makes financial sense to do so. By exploring the different mortgage products you can understand how the lender sets interest rates.
 
 ### 2.2.1 Fixed-Rate Mortgages
 
@@ -126,7 +126,7 @@ The downsides to this product are:
 
 - They come with early repayment charges, which is mandatory. This also applies when moving on to a new deal.
 
-- When the fixed-rate term comes to an end, the rate typically reverts to the lender Standard Variable Rate, or SVR, which may be much higher than the fixed rate deal.
+- When the fixed-rate term comes to an end, the rate typically reverts to the lender Standard Variable Rate, or SVR, which may be much higher than the fixed-rate deal.
 
 ### 2.2.2 Variable Rate Mortgages
 
@@ -158,22 +158,22 @@ It’s important to clarify what you are getting. If it says 1.5% discount, find
 
 Variable-rate mortgage products tend to be good when the bank rate is falling or low and stable. By contrast, they are not good for borrowers when bank rate rises since the mortgage rate will rise, thereby increasing the monthly cost of the mortgage to the borrower.
 
-# 3. Mortgage choices: offset, flexible and portable mortgages
+# 3. Mortgage Choices
 
 Lenders can offer further mortgage product choices to meet your financial circumstances.
 
-**Offset mortgages**
+## 3.1 Offset Mortgages
 
 By moving surplus cash to the mortgage lender, the amount is then deducted from the total amount owed before the calculation of the monthly mortgage interest. If the interest rate is lower on than that charged on the mortgage, this can be a good deal as those savings are earning interest at the mortgage rate. The positives to this are that the savings can be withdrawn and used. Of course, the interest rate charged on the mortgage goes up as you offset less of the debt.
 
 - The interest rate is a bit higher than other lenders would charge
 - Dependent on how much of the debt is offset by savings
 
-**Flexible mortgages**
+## 3.2 Flexible Mortgages
 
 A deal where monthly payment amounts can vary and even borrow back money already paid off. This provides the ability to pay off early and also cover any tough times. Most mortgages allow you to pay off the extra. That means you pay off your mortgage faster and pay less interest in total. Some people worry that, with the freedom to reduce payments in bad times, they won’t push their payments back up enough in the good times. Like when you’re on holiday, you don’t want to go back to work. With a fixed or variable rate mortgage, you pay whatever the lender tells you to pay each month.
 
-**Portable mortgages**
+## 3.3 Portable Mortgages
 
 If you sell up and move to a new property that you are buying you can take your existing mortgage to finance the new purchase.
 
@@ -181,7 +181,9 @@ If you sell up and move to a new property that you are buying you can take your 
 
 If your mortgage is not portable, you‘d have to pay off your original mortgage before obtaining a new mortgage for the new property.
 
-# 4. Managing your mortgage: Overpaying
+# 4. Managing Your Mortgage
+
+## 4.1 Overpaying
 
 If you have spare income each month, compare the mortgage rate and interest rate you could get if, instead of overpaying, that income goes towards a savings account. If the mortgage rate is higher, it makes sense to pay down the mortgage than to save the money as the savings’ product offers less in return.
 
@@ -207,7 +209,7 @@ Even if the maths points to overpaying your mortgage, should you use all your sa
 
 > This is unwise unless the mortgage deal has a borrow back feature. Putting one’s savings into one pot leaves the rest of life’s uncertainties uncovered.
 
-## 4.1 Moving to another Deal
+## 4.2 Moving to Another Deal
 
 Around 4 / 10 mortgage transactions relate to people remortgaging their existing property without moving home at the same time. Moving homes can trigger new mortgage deals as well. But it’s the volume of remortgages which highlights the fact that periodically it makes sense to switch to a new mortgage deal, and perhaps a new lender too.
 
@@ -218,7 +220,7 @@ One trigger point for remortgaging is when the initial mortgage deal comes to an
 
 You should not see a mortgage as a product you have to stick with until it comes to term and all money is repaid to the lender. As it’s the largest outgoing expense for most households, you should take the opportunity to switch to a better deal when it makes financial sense.
 
-## 4.2 Ditching a fixed-rate mortgage
+## 4.3 Ditching a Fixed-Rate Mortgage
 
 Another trigger for remortgaging that arises under certain interest rate conditions is when making an early repayment of an existing fixed-rate deal and moving to a new mortgage makes financial sense.
 
@@ -286,7 +288,7 @@ To pay for the costs they use their savings equalling the total of the charges
 
 It still makes financial sense to move to the new product as the loss in savings outweighs the savings made by switching to the new deal.
 
-# 5. The other costs of buying a property
+# 5. The Costs of Buying a Property
 
 It’s not merely about getting the mortgage and being able to pay it. You will incur extra costs as you take ownership of your new home.
 
@@ -312,7 +314,7 @@ Other transaction costs involved in property transactions are the fees payable t
 
 **Stamp Duty Land Tax (SDLT)**
 
-The marginal rates of SDLT on a residential property purchases in England and Northern Ireland in 2020/21 were:
+The marginal rates of SDLT on residential property purchases in England and Northern Ireland in 2020/21 were:
 
 > up to £125,000, 0%
 
@@ -330,15 +332,15 @@ First-time buyers are exempt from SDLT for properties under the following condit
 - Between £300,000 and £500,000 incurs a 5% charge
 - Anything that is over £500,000 does not get SDLT relief
 
-There is also a 3% surcharge if any property is not acquired as primary home
+There is also a 3% surcharge if any property is not acquired as the primary home.
 
-# 6. Mortgages: understanding and managing the risks
+# 6. Understanding and Managing the Risks
 
 Some risks arise from homeownership and having a mortgage. Even if you can not take action against the risks, you can be better prepared to handle the consequences of them.
 
-In recent years, mortgages have become affordable due to the historic low levels of interest rates. Future years will inevitably see higher interest rates return. If a borrower gets into financial trouble in relation to their mortgage, lenders must help as their regulators require them to do so. Your home is at risk as your lender will take repossession of it if you default against any payments. Remember that a mortgage is a secure debt.
+In recent years, mortgages have become affordable due to the historic low levels of interest rates. Future years will inevitably see higher interest rates return. If a borrower gets into financial trouble concerning their mortgage, lenders must help as their regulators require them to do so. Your home is at risk as your lender will take repossession of it if you default against any payments. Remember that a mortgage is a secure debt.
 
-It’s entirely possible that you may find yourself in negative equity. This happens in periods where the price of your house is proportionally less to the amount of mortgage that you still have to pay. Whilst not inherently bad, this becomes an issue if you want to sell as you may make a loss and not be able to repay the full amount left on the mortgage.
+You may find yourself in negative equity. This happens in periods where the price of your house is proportionally less to the amount of mortgage that you still have to pay. Whilst not inherently bad, this becomes an issue if you want to sell as you may make a loss and not be able to repay the full amount left on the mortgage.
 
 Whilst not an issue for those looking to buy a home after 2014, those who have bought a home under the previous affordability rules before 2014 are at risk of not being able to secure a mortgage under the new rules. They are essentially ’mortgage prisoners’ and are unable to take advantage of better mortgage deals as they would need to be re-evaluated.
 
@@ -362,7 +364,7 @@ The other risk is not looking ahead and planning for life’s uncertainties
 
 By knowing the risks, you can effectively plan to mitigate the consequences should they arise.
 
-**Homeownership risks**
+**Homeownership Risks**
 
 | Risk                                                                   | Comments                                                                                                                                                               |
 | ---------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -2,16 +2,16 @@
 - [2. Financial Personality](#2-financial-personality)
 - [3. Social Influences on Spending](#3-social-influences-on-spending)
 - [4. Habits and Impairment of Spending Choices](#4-habits-and-impairment-of-spending-choices)
-  - [4.1 The preference for bringing forward financial rewards and for delaying outlays](#41-the-preference-for-bringing-forward-financial-rewards-and-for-delaying-outlays)
-  - [4.2 The preference for simplicity over best value](#42-the-preference-for-simplicity-over-best-value)
+  - [4.1 The Preference for Bringing Forward Financial Rewards and for Delaying Outlays](#41-the-preference-for-bringing-forward-financial-rewards-and-for-delaying-outlays)
+  - [4.2 The Preference for Simplicity Over Best Value](#42-the-preference-for-simplicity-over-best-value)
   - [4.3 Not Evaluating Evidence Properly When Buying](#43-not-evaluating-evidence-properly-when-buying)
-  - [4.4 Putting off the Decision can be a (bad) Decision](#44-putting-off-the-decision-can-be-a-bad-decision)
+  - [4.4 Putting off the Decision Can Be a (Bad) Decision](#44-putting-off-the-decision-can-be-a-bad-decision)
 - [5. Personality and Its Effect on Spending](#5-personality-and-its-effect-on-spending)
 - [6. Marketing Forces and Their Effect on Our Spending](#6-marketing-forces-and-their-effect-on-our-spending)
-- [7. Decision-making model to take control of spending decisions](#7-decision-making-model-to-take-control-of-spending-decisions)
-- [8. Why do we buy insurance?](#8-why-do-we-buy-insurance)
-- [9. Applying the decision-model to insurance](#9-applying-the-decision-model-to-insurance)
-- [10. Mobile phones and Insurance](#10-mobile-phones-and-insurance)
+- [7. Controlling Our Spending Decisions](#7-controlling-our-spending-decisions)
+- [8. Insurance, Is It Necessary?](#8-insurance-is-it-necessary)
+- [9. Applying Our Model](#9-applying-our-model)
+- [10. Mobile Phones and Insurance](#10-mobile-phones-and-insurance)
 - [11. Shopping Online](#11-shopping-online)
 
 # 1. Money Mantras
@@ -32,35 +32,35 @@ If you have the money, you should still question whether it’s a wise purchase 
 
 # 2. Financial Personality
 
-**Do you consider your self to be a risk-taker or risk-averse with money?**
+**Do You Consider Yourself to Be a Risk-Taker or Risk-Averse With Money?**
 
 The majority of people consider themselves to be risk-averse. Perhaps this is because they would rather keep what they have rather than risk losing it all in the search of higher gain.
 
-**Are you more of a spender or more of a saver?**
+**Are You More of a Spender or More of a Saver?**
 
 This speaks more to your financial circumstances rather than your aspirations. Often people who would like to save more money do not have spare income to do so. Those who have money find it easier to save.
 
-**Do you actively budget for you and/or your household?**
+**Do You Actively Budget for You And/Or Your Household?**
 
 By creating a basic budget, you map out your spending against your income and can actively avoid getting into financial difficulties.
 
-**Do you check your bank and credit card accounts — either online/paper statements?**
+**Do You Check Your Bank and Credit Card Accounts?**
 
 You need to do this to make sure there are no wrong or fraudulent transactions. Know when you’re close to your credit limit and when you need to repay, managing your accounts supports your budgeting too. Letting you know how much is in the bank and when you have to pay bills.
 
-**When it comes to suppliers (gas, phone, internet, electricity, etc), do you switch or stay?**
+**When It Comes to Suppliers, Do You Switch or Stay?**
 
 Switchers end up with better deals than stayers in the general rule. Stayers tend to get overcharged for provided services.
 
-**Are you always looking for a better deal?**
+**Are You Always Looking for a Better Deal?**
 
 Scanning the markets and switching to cheaper, meaningful deals is good news for finances
 
-**How far ahead do you plan your finances?**
+**How Far Ahead Do You Plan Your Finances?**
 
 Planning as far as possible involves estimations about your income and expenses/ spending. Plan for up to a year ahead if possible. Month to month may leave you in a situation where you are always worrying about money. Month to month management may encourage inefficient decision-making. e.g. monthly payment options for a service such as car insurance
 
-**Do you solely or jointly manage money?**
+**Do You Solely or Jointly Manage Money?**
 
 This depends on circumstance; living alone gives you sole responsibility of all money going in and out. Relationships or cohabiting will require some decisions to made jointly and also pooling financial resources together. Whatever the situation, it’s best to coordinate finances to some degree so that everyone’s able to pay their share.
 
@@ -105,13 +105,13 @@ Viewpoints aside, spending, in some part, reflects your social background, influ
 
 # 4. Habits and Impairment of Spending Choices
 
-## 4.1 The preference for bringing forward financial rewards and for delaying outlays
+## 4.1 The Preference for Bringing Forward Financial Rewards and for Delaying Outlays
 
 [Evidence](https://www.thisismoney.co.uk/money/bills/article-2383414/Money-Advice-Service-More-half-adults-struggling-bills-debt.html) suggests that, given the choice, 1/5 of people would prefer to accept less money now as opposed to more money later.
 
 This preference also means that people prefer to delay payment rather than make them straight away. Delaying payments leads to poor decision-making when paying for goods. A perfect example of this is paying monthly instalments on car insurance as opposed to in full. Given that the interest rate charged is high, you end up paying a significant amount more monthly.
 
-## 4.2 The preference for simplicity over best value
+## 4.2 The Preference for Simplicity Over Best Value
 
 **Case Study**
 
@@ -211,7 +211,7 @@ The smart choice, in this example, would be to be pay from Shop A as the higher 
 
 To explain the above scenario, unpredictability is not something we like. To make smart financial choices, we have to put ourselves in situations we don’t want to think about.
 
-## 4.4 Putting off the Decision can be a (bad) Decision
+## 4.4 Putting off the Decision Can Be a (Bad) Decision
 
 Putting off decisions rather than making one and finding out you chose wrongly is a common weakness.
 
@@ -239,7 +239,7 @@ People see money as power, money as love, money as freedom, money as security. M
 
 A common belief is that the higher the price the more it equates to quality. It’s a mental shortcut to assess the quality and covers the shortfall in situations where information is lacking. Price and quality are not remotely related to one another.
 
-**Common mental shortcuts we use when determining what to buy**
+**Mental Shortcuts We Use When Determining What to Buy**
 
 - ’Own’ brands are products from a different label at a lower price.
 - Larger-sized containers are cheaper than smaller sizes.
@@ -263,18 +263,18 @@ These shortcuts are providing a lot of suggestions:
 
 In each case, particular groups, producers or retailers, would like you to believe in their marketing so that you spend your money on their products rather than their competitors.
 
-# 7. Decision-making model to take control of spending decisions
+# 7. Controlling Our Spending Decisions
 
 Making sound financial decisions, including those when you’re buying big-ticket items requires a clear and coherent plan. Assess, Decide, Act, Review is the model used to ensure you take control of your spending decisions.
 
-**Step 1. Assess your finances.**
+**Step 1. Assess Your Finances.**
 
 - Identify items in your weekly, monthly, or annual budget where you’re paying too much.
 - Use internet comparison sites
 - Studying personal finance websites or sections in newspapers
 - Talk to your family and friends.
 
-**Step 2. Decide what you’re going to do to improve your finances.**
+**Step 2. Decide What You’re Going to Do to Improve Your Finances.**
 
 - You may be paying too much for your gas and electricity
 - Cancelling membership of clubs and societies you don’t use
@@ -282,18 +282,18 @@ Making sound financial decisions, including those when you’re buying big-ticke
 - It’s often worth approaching your existing supplier to see if it can offer you a better deal.
   - Compare any deal it offers with those offered by alternative suppliers to make sure you’re making the right decision, whether that’s to switch or stay.
 
-**Step 3. Act on your decision.**
+**Step 3. Act on Your Decision.**
 
 - Terminating your existing energy deal and signing up to a new supplier.
 - Misplaced loyalty to an existing supplier can interfere with good decision-making.
 
-**Step 4. Once you’ve acted, don’t let the dust settle.**
+**Step 4. Review Your Decisions.**
 
 - Review the decisions you’ve made.
 - Has switching supermarkets saved you money?
 - Is the new gym offering better value for your money than the one you used before?
 
-# 8. Why do we buy insurance?
+# 8. Insurance, Is It Necessary?
 
 The four-step model provides the means to assess different insurance products rigorously whilst facilitating appropriate choices.
 
@@ -326,7 +326,7 @@ You may feel that the social fabric of the UK negates the need to buy insurance 
 
 Either way each insurance category is different and making effective choices between the products — or, indeed, deciding whether you need to buy insurance in the first place — is a good place to use the four-step model.
 
-# 9. Applying the decision-model to insurance
+# 9. Applying Our Model
 
 **Step 1. Assess**
 
@@ -335,14 +335,14 @@ It’s important to assess the significance of what is insurable. i.e. Life insu
 An important factor to consider is what other protection is available.
 
 - State benefits are part of this equation, as are any benefits available from an employer (if you’re employed).
-- With large employers, benefits may include
-  - Sick pay above the statutory minimum
-  - ’death in service’ benefits
+- With large employers, benefits may include.
+  - Sick pay above the statutory minimum.
+  - ’death in service’ benefits.
   - Private medical insurance (PMI).
 
-Find out what entitlements are applicable to you. Entitlements may not replace the need for private insurance, but it’s important to know what they are, as they may reduce any unnecessary overheads.
+Find out what entitlements apply to you. Entitlements may not replace the need for private insurance, but it’s important to know what they are, as they may reduce any unnecessary overheads.
 
-Use your attitude to risk as a factor; if you are more risk-averse, it’s probable that you will buy supplementary insurances to cover all cases
+Use your attitude to risk as a factor; if you are more risk-averse, you will probably buy supplementary insurances to cover all cases
 
 **Step 2. Decide**
 
@@ -374,7 +374,7 @@ Whatever route you take to buy your policy, do take time to inspect the terms of
 
 Always review your insurance needs when policies come up for renewal and when personal circumstances change. Renewing with the same provider year after a year yields little in return for your loyalty. Instead, compare with other providers to see if you can get a cheaper deal. As with any financial plan, review and assess how this experience worked out for you. This gives you the chance to remove ’double insuring’ — to check that the same risk is not insured twice (for example, having cover for legal expenses on both your car and home insurance), which would be an unnecessary expenditure.
 
-# 10. Mobile phones and Insurance
+# 10. Mobile Phones and Insurance
 
 This insurance product is not cheap as it can typically be between £5 and £20 per month. Adding to the fact that you may be paying for a contract with or without a phone.
 

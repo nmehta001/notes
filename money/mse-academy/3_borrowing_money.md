@@ -1,13 +1,24 @@
 - [1. The Boom of Borrowing in the UK](#1-the-boom-of-borrowing-in-the-uk)
 - [2. Good Debt vs Bad Debt](#2-good-debt-vs-bad-debt)
 - [3. Credit Reference Agencies and Your Credit History](#3-credit-reference-agencies-and-your-credit-history)
-  - [3.1 The compilation of your credit history](#31-the-compilation-of-your-credit-history)
-  - [3.2 How to boost your creditworthiness](#32-how-to-boost-your-creditworthiness)
-  - [3.3 Good tips to help your creditworthiness](#33-good-tips-to-help-your-creditworthiness)
-- [4. Who are the lenders?](#4-who-are-the-lenders)
-- [5. The debt supermarket: get to know the products](#5-the-debt-supermarket-get-to-know-the-products)
-- [6. How much does it cost to borrow money?](#6-how-much-does-it-cost-to-borrow-money)
-  - [6.1 Annual Percentage Rate (APR): the key comparator for borrowing decisions](#61-annual-percentage-rate-apr-the-key-comparator-for-borrowing-decisions)
+  - [3.1 The Compilation of Your Credit History](#31-the-compilation-of-your-credit-history)
+  - [3.2 Boosting Creditworthiness](#32-boosting-creditworthiness)
+  - [3.3 Good Tips to Help Your Creditworthiness](#33-good-tips-to-help-your-creditworthiness)
+- [4. Who Are the Lenders?](#4-who-are-the-lenders)
+- [5. Debt Products](#5-debt-products)
+  - [5.1.1 Overdrafts](#511-overdrafts)
+  - [5.1.2 Credit Cards](#512-credit-cards)
+  - [5.1.3 Charge Cards](#513-charge-cards)
+  - [5.1.4 Loans](#514-loans)
+  - [5.1.5 Hire Purchases (HP)](#515-hire-purchases-hp)
+  - [5.1.6 Mortgages](#516-mortgages)
+  - [5.1.7 Other (Expensive) Types of Credit](#517-other-expensive-types-of-credit)
+  - [5.1.8 Peer-To-Peer (P2P) Loans](#518-peer-to-peer-p2p-loans)
+  - [5.1.9 Personal Contract Purchases (PCP)](#519-personal-contract-purchases-pcp)
+- [5.1.10 Student Loans](#5110-student-loans)
+  - [5.2 Key Features](#52-key-features)
+- [6. How Much Does It Cost to Borrow Money?](#6-how-much-does-it-cost-to-borrow-money)
+  - [6.1 Annual Percentage Rate (APR)](#61-annual-percentage-rate-apr)
   - [6.2 Setting interest rates and the role of the Bank of England](#62-setting-interest-rates-and-the-role-of-the-bank-of-england)
 - [7. Low cost and high-cost borrowing](#7-low-cost-and-high-cost-borrowing)
 
@@ -104,7 +115,7 @@ The information includes the:
 - Whether you make repayments on time
 - The proportion of your bill that you repay each month.
 
-## 3.1 The compilation of your credit history
+## 3.1 The Compilation of Your Credit History
 
 The agencies don’t have access to or explore, all your personal information, but they do examine the following:
 
@@ -140,7 +151,7 @@ The lender will require the following details:
 - Your address.
 - Whether your home is owner-occupied, rented, or whether you’re living in someone else’s home.
 
-## 3.2 How to boost your creditworthiness
+## 3.2 Boosting Creditworthiness
 
 Check credit reports once a year at least. If the information held on the reports is incorrect, you could end up having applications for credit declined as a result of errors. Access the information on the reports of the ’Big 3’ agencies. There will be variations between the information held on you from each of the agencies. If there are errors, get them corrected.
 
@@ -150,7 +161,7 @@ Make sure that you’re registered on the electoral roll or that you have proof 
 
 Check whether you’re linked to someone financially, as their credit score can affect yours. Being ’linked’ is about whether you have a joint financial product such as a joint bank account or mortgage. Being financially linked means that their history is also considered as part of assessing whether to accept you. If your partner or flatmate has a poor history, keep your finances separate. Once finances are no longer linked (break-up, moved homes), write to the credit reference agencies and ask for a notice of disassociation. You can also find the forms online.
 
-## 3.3 Good tips to help your creditworthiness
+## 3.3 Good Tips to Help Your Creditworthiness
 
 Most of the key tips for managing and improving your credit score come down to ’good financial habits’:
 
@@ -166,7 +177,7 @@ Most of the key tips for managing and improving your credit score come down to �
 
 Also, remember never to lie when making any applications for credit as, if detected, this could come back to haunt you.
 
-# 4. Who are the lenders?
+# 4. Who Are the Lenders?
 
 The financial services’ industry consists primarily of banks. They include the major ’high street’ names, such as Barclays, Lloyds Banking Group, HSBC, the Royal Bank of Scotland and Santander. Smaller banks, like Metro Bank. Banks that do not have a branch network like First Direct, a subsidiary of HSBC. These banks deal with customers via the internet, post or phone.
 
@@ -184,15 +195,15 @@ Budgeting loans are available for people on some state benefits (or Budgeting Ad
 
 The basic business model of all lenders is the same. It involves borrowing money from the public or wholesale markets and lending the money (at a profit) to people like you and me, to companies, local authorities and even governments.
 
-# 5. The debt supermarket: get to know the products
+# 5. Debt Products
 
 Here’s a run-down of the most common forms of borrowing.
 
-**Overdrafts**
+## 5.1.1 Overdrafts
 
 An overdraft is a pre-agreed on limit that you can use when you have run out of money in your account. It takes your account into a negative balance if you use it. If you are £500 overdrawn, your account balance will show -£500. In all cases, the overdrawn amount will need resolving. Overdrafts can be expensive as the interest rates for being overdrawn can be up to 40%.
 
-**Credit cards**
+## 5.1.2 Credit Cards
 
 A card that allows you to spend on, up to an agreed amount. It’s a debt that you must pay back. The billing cycle is monthly and you can choose to pay off the full amount or the smallest amount required by the card issuer. Choosing the latter incurs interest charges as you’re not paying the debt off in full. There may be some circumstances where charges for interest occur. e.g. withdrawals.
 
@@ -200,7 +211,7 @@ Some credit cards offer an attractive 0% interest rate for a limited period.
 
 Store cards are a form of credit card used for buying from specified outlets. They tend to have much higher interest rates than credit cards.
 
-**Charge cards**
+## 5.1.3 Charge Cards
 
 Close in behaviour to a credit card, the differences being:
 
@@ -208,19 +219,19 @@ Close in behaviour to a credit card, the differences being:
 - Each monthly cycle requires full repayment of the debt
 - You may need to pay a fee to use the card
 
-**Loans**
+## 5.1.4 Loans
 
 Loans made to individuals, typically with terms of between 1 and 10 years. They may be either unsecured or secured against an asset. Unsecured personal loans are not contractually linked to any assets the borrower buys. These are available from credit unions, banks, building societies, direct lenders and finance companies.
 
-**Hire Purchases (HP)**
+## 5.1.5 Hire Purchases (HP)
 
 Attached to an asset such as a car, this is a form of secured debt and can typically be up to 10 years.
 
-**Mortgages**
+## 5.1.6 Mortgages
 
 Another form of secured debt, it’s a loan to enable purchases of property or land. These can typically be for 25 to 30 years and some go up to 40 years. This longer you borrow for, the more interest you will end up paying.
 
-**Other (expensive) types of credit**
+## 5.1.7 Other (Expensive) Types of Credit
 
 These loans should be a last resort as the charges are incredibly high.
 
@@ -228,24 +239,24 @@ These loans should be a last resort as the charges are incredibly high.
 - ’rent-to-own’, a high-cost means of purchasing household goods.
   - Marketed at people on lower incomes and/ or with poor credit histories. These have been subject to clampdowns by authorities over poor sales tactics.
 
-**Peer-to-peer (Peer2Peer) loans**
+## 5.1.8 Peer-To-Peer (P2P) Loans
 
 This is an emerging form of lending where special websites link people who have money to invest with individuals or companies wanting to borrow, so you’re effectively borrowing from other individuals rather than a bank. The sites, such as Zopa and Ratesetter, profit by taking a fee.
 
-**Personal Contract Purchases (PCP)**
+## 5.1.9 Personal Contract Purchases (PCP)
 
 This is a popular form of financing a car. The billing cycle is monthly for 2 to 3 years, after which you can make a one-off payment to own the car or trade it in for a new one (the latter starting a new PCP deal). You can also give the car back subject to ’wear-and-tear’ conditions of the contract.
 
 To own the car, the dealer will expect you to pay off at the trade-in value after the finance agreement ends.
 
-**Student loans**
+# 5.1.10 Student Loans
 
 A loan that finances further and higher education studies. They are not like ordinary loans or other forms of credit. Debts are repayable when said student’s income exceeds the threshold for repayments. As of 2020/21, if your salary exceeds £26,575, you will start paying back your student loans.
 
 - For an undergraduate course, any amount over the threshold incurs a 9% tax rate.
 - For a postgraduate course (masters, doctorate), any amount over the threshold incurs a 6% tax rate.
 
-**Debt products: key features**
+## 5.2 Key Features
 
 | Product                              | Secured/Unsecured Interest | Interest charged       |
 | ------------------------------------ | -------------------------- | ---------------------- |
@@ -260,7 +271,7 @@ A loan that finances further and higher education studies. They are not like ord
 | Peer-to-peer loans                   | Unsecured                  | Variable — low to high |
 | Personal Contract Purchases (PCP)    | Secured                    | Fixed — low to high    |
 
-# 6. How much does it cost to borrow money?
+# 6. How Much Does It Cost to Borrow Money?
 
 When someone borrows money, the amount they have to repay to the lender consists of three elements.
 
@@ -279,7 +290,7 @@ When someone borrows money, the amount they have to repay to the lender consists
 3. Charges.
    - Charges associated with taking out, having or repaying debt, which is common on mortgages.
 
-## 6.1 Annual Percentage Rate (APR): the key comparator for borrowing decisions
+## 6.1 Annual Percentage Rate (APR)
 
 Borrowers must repay to the lender both the principal sum and the interest. It’s common to expect extra costs included on top of this:
 
@@ -303,7 +314,7 @@ Note that APR does not include:
 
 Generally, a low APR means lower costs for the borrower.
 
-## 6.2 Setting interest rates and the role of the Bank of England
+## 6.2 Setting Interest Rates and the Role of the Bank of England
 
 The rate set by the Bank’s Monetary Policy Committee (MPC), also known as ’Bank Rate’, is the rate at which the Bank of England will lend to the financial institutions. This determines the level of bank ’base rates’ — the lowest level at which the banks will lend money. The result is that the Bank Rate (also known as the ’official rate’) effectively sets the general level of interest rates for the economy as a whole.
 
@@ -320,7 +331,7 @@ One other factor to consider is the difference between price inflation and inter
 
 For anyone who is borrowing, the reverse applies — positive real interest rates are bad news, but negative real interest rates are good news.
 
-# 7. Low cost and high-cost borrowing
+# 7. Low Cost and High-Cost Borrowing
 
 To emphasize the previous sections, some statements generally match the methods of borrowing (These are relative to the average cost of the six ways of borrowing):
 
